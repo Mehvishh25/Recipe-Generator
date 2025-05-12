@@ -1,0 +1,17 @@
+
+    Create a detailed recipe with the following preferences:
+
+    - Ingredients I have: Potato, Chicken, Tomato, Carrot, Bread
+    - Cuisine type: Any
+    - Meal type: Breakfast
+    - Difficulty: Easy
+    - Max preparation time: 30 minutes
+    - Dietary restrictions: Low-Fat
+
+    Please generate the recipe in the following format:
+    1. **Title**: A catchy name for the recipe.
+    2. **Ingredients list**: A list of all ingredients with quantities.
+    3. **Instructions**: Step-by-step cooking instructions, with numbered steps.
+    4. **Estimated Nutrition Information**: An estimate of calories, fat, protein, etc.
+    5. **Fun Gen-Z Humor**: A funny comment or emoji to add some humor to the recipe.
+    

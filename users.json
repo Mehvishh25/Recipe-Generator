@@ -1,0 +1,36 @@
+{
+    "mw@gmail.com": {
+        "password": "mehvish",
+        "profile": {
+            "name": "MW",
+            "age": 20,
+            "height": 170,
+            "weight": 50,
+            "gender": "Female",
+            "chronic_diseases": [],
+            "allergies": [],
+            "nutrients_required": [],
+            "cuisines_liked": [
+                "Indian"
+            ],
+            "preferences": [
+                "Home Food"
+            ]
+        }
+    },
+    "tt": {
+        "password": "hi12345",
+        "profile": {
+            "name": "",
+            "age": 25,
+            "height": 170,
+            "weight": 70,
+            "gender": "Male",
+            "chronic_diseases": [],
+            "allergies": [],
+            "nutrients_required": [],
+            "cuisines_liked": [],
+            "preferences": []
+        }
+    }
+}
